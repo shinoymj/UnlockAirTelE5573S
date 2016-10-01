@@ -1,0 +1,15 @@
+
+AT^DATALOCK="00000000"
+
+
+AT^NVWR=6,20,your serial num in hex here FF FF FF FF
+
+
+
+
+
+
+YOU CAN COVERT YOUR SERIAL TO HEX HERE
+http://www.unit-conversion.info/texttools/hexadecimal/
+
+

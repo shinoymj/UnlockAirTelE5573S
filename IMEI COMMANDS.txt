@@ -1,0 +1,4 @@
+AT^DATALOCK="00000000"
+
+
+AT^CIMEI="your imei here"
